@@ -1,0 +1,11 @@
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\bin\Debug\netcoreapp3.0\EzCypher.exe
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\bin\Debug\netcoreapp3.0\EzCypher.deps.json
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\bin\Debug\netcoreapp3.0\EzCypher.runtimeconfig.json
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\bin\Debug\netcoreapp3.0\EzCypher.runtimeconfig.dev.json
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\bin\Debug\netcoreapp3.0\EzCypher.dll
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\bin\Debug\netcoreapp3.0\EzCypher.pdb
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\obj\Debug\netcoreapp3.0\EzCypher.csprojAssemblyReference.cache
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\obj\Debug\netcoreapp3.0\EzCypher.AssemblyInfoInputs.cache
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\obj\Debug\netcoreapp3.0\EzCypher.AssemblyInfo.cs
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\obj\Debug\netcoreapp3.0\EzCypher.dll
+C:\Users\dyrsh\source\repos\EzCypher\EzCypher\obj\Debug\netcoreapp3.0\EzCypher.pdb
